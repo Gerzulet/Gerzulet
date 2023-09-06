@@ -34,7 +34,7 @@ Estoy actualmente buscando desafios, estoy trabajando en diversos proyectos con 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,nodejs,firebase,git,github,docker,postman,vscode,bash,linux,neovim,vim,nextjs,reactjs,mongodb,postgresql,tailwindcss,redux,mocha,swagger&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,nodejs,firebase,git,github,ts,netlify,nestjs,vercel,vite,docker,postman,vscode,bash,linux,neovim,vim,nextjs,bootstrap,react,mongodb,postgresql,tailwindcss,redux&perline=12" />
   </a>
 </p>
 <br>
