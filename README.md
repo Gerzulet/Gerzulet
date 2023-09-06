@@ -1,16 +1,55 @@
-### Hi there 👋
+[I believe in center aligned 🤲]: #
 
-<!--
-**Gerzulet/Gerzulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[this is for the picture]: #	
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+  
+[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
+<div id="badges">
+<a href="https://www.linkedin.com/in/gzulet/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:german.alejandrozulet@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+<a href="https://leetcode.com/aqchandra15/">
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+</a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hola! 👋🎉
+
+Mi nombre es **German Soto**, desarrollador web fullstack, bienvenido a mi perfil.
+
+Estoy actualmente buscando desafios, estoy trabajando en diversos proyectos con distintas organizaciones, ademas de ser tutor en la plataforma CODERHOUSE.
+
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+  
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,nodejs,firebase,git,github,docker,postman,vscode,bash,linux,neovim,vim,nextjs,reactjs,mongodb,postgresql,tailwindcss,redux,mocha,swagger&perline=12" />
+  </a>
+</p>
+<br>
+
+### :bar_chart: GitHub stats
+
+[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
+
+[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerzulet&count_private=true&show_icons=true&theme=dark)](https://github.com/Gerzulet/github-readme-stats)
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerzulett&show_icons=true&theme=dark)
+
+ 
+</div>
+------
+
+
+
