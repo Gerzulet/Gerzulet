@@ -42,7 +42,7 @@ Estoy actualmente buscando desafios, estoy trabajando en diversos proyectos con 
 
 [![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerzulet&count_private=true&show_icons=true&theme=dark)](https://github.com/Gerzulet/github-readme-stats)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerzulett&show_icons=true&theme=dark)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerzulet&show_icons=true&theme=dark)
 
  
 </div>
