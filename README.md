@@ -18,11 +18,11 @@
 </div>
 
 
-### Hola! 👋🎉
+### Hi! 👋🎉
 
-Mi nombre es **German Soto**, desarrollador web fullstack, bienvenido a mi perfil.
+My name is  **German Soto**, fullstack developer, specialized in frontend development, welcome to my profile.
 
-Estoy actualmente buscando desafios, estoy trabajando en diversos proyectos con distintas organizaciones, ademas de ser tutor en la plataforma CODERHOUSE.
+Watch my portfolio : https://gszcreations.com 
 
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
